@@ -33,7 +33,7 @@ Only one valid answer exists.
  */
 
 
-package org.example;
+package org.example.Day1;
 
 import java.util.Arrays;
 import java.util.HashMap;

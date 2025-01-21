@@ -37,7 +37,7 @@
         1 <= nums[i] <= 10
 */
 
-package org.example;
+package org.example.Day1;
 
 public class Leet1752 {
 
